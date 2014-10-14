@@ -1,0 +1,19 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "node webscraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kkwoker/Node-web-scraper.git"
+  },
+  "author": "Kinnan Kwok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkwoker/Node-web-scraper/issues"
+  },
+  "homepage": "https://github.com/kkwoker/Node-web-scraper"
+}
